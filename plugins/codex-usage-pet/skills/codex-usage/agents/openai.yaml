@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 用量宠物"
+  short_description: "在 Codex 内查看本机桌面端 Token、模型费用估算和中转站余额"
+  default_prompt: "使用 $codex-usage 查看今天的 Codex 用量和已配置平台余额。"
